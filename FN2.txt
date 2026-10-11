@@ -1,0 +1,8 @@
+Result with x = 5: 58
+
+Tree:
+              48
+       +
+                       2
+               *
+                       x
